@@ -1,0 +1,21 @@
+#H-container a {
+    text-decoration: none;
+    color: rgb(30 30 30);
+}
+
+#H-container a:hover {
+    color: gray;
+}
+
+#H-container {
+    color: rgb(30 30 30);
+    font-weight: 500;
+    text-align: center;
+    padding: 10px;
+    background-color: #cee2cd;
+}
+
+#H-slogan {
+    font-size: 24px;
+    color: green;
+}

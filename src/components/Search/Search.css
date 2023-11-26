@@ -1,0 +1,64 @@
+#S-container {
+    width: 100%;
+}
+
+#S-search {
+    width: fit-content;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#S-form input {
+    margin: 150px 10px 50px 10px;
+    font-size: 20px;
+}
+
+#submit {
+    background-color: #0E860C;
+    border: 3px solid #73b971;
+    border-radius: 10px;
+    Color: white;
+    padding: 3px 5px;
+}
+
+#form-input {
+    width: 400px;
+    background-color:#73b971;
+    border: 2px solid #0E860C;
+    border-radius: 8px;
+    color: white;
+}
+
+#form-input::placeholder {
+    color: white;
+}
+
+#S-ads {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+}
+
+.S-ad img {
+    width: 100%;
+    height:100%;
+    max-height: 300px;
+}
+
+.S-ad {
+    text-align: center;
+}
+
+.S-ad button {
+    font-size: 20px;
+    background-color: #0E860C;
+    color: white;
+    border: 3px solid #73b971;
+    border-radius: 10px;
+}
+
+.S-ad button:hover {
+    background-color: #93DF91;
+    border-color:#0E860C;
+    color: rgb(30 30 30);
+}
