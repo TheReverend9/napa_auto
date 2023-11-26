@@ -1,25 +1,17 @@
 #S-container {
-    width: 100%;
+    padding: 10px;
 }
 
 #S-search {
     width: fit-content;
-    height: 400px;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #S-form input {
-    margin: 150px 10px 50px 10px;
+    margin: 50px 10px 50px 10px;
     font-size: 20px;
-}
-
-#submit {
-    background-color: #0E860C;
-    border: 3px solid #73b971;
-    border-radius: 10px;
-    Color: white;
-    padding: 3px 5px;
 }
 
 #form-input {
@@ -47,18 +39,4 @@
 
 .S-ad {
     text-align: center;
-}
-
-.S-ad button {
-    font-size: 20px;
-    background-color: #0E860C;
-    color: white;
-    border: 3px solid #73b971;
-    border-radius: 10px;
-}
-
-.S-ad button:hover {
-    background-color: #93DF91;
-    border-color:#0E860C;
-    color: rgb(30 30 30);
 }
