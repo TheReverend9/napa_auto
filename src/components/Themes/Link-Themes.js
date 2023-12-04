@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Link = styled.a`
     color: rgb(30 30 30);
-    font-weight: bold;
+    font-weight: 500;
     list-style-type: none;
     text-decoration: none;
     margin: 0;

@@ -10,12 +10,12 @@ class Offer extends Component {
             <div id="O-outer-container">
                 <Div className="O-header">
                     <br/>
-                    <h2>What Napa Auto Parts can Offer you!</h2>
+                    <h2>Welcome To Napa Auto Parts</h2>
                     <br/>
                     <br/>
                 </Div>
                 <div className="O-b-header">
-                    
+                    <h3>Here You Can See All That We Have To Offer</h3>
                     <p>Choose a part group from the list below</p>
                     <p>OR</p>
                     <p>Search for a specific vehicle</p>

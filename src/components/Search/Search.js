@@ -12,10 +12,13 @@ class Search extends Component {
                 <div id="S-container">
                     <Div className="S-header">
                         <br/>
-                        <h2>Search the Website from here</h2>
+                        <h2>Welcome To Napa Auto Parts</h2>
                         <br/>
                         <br/>
                     </Div>
+                    <div className="S-header">
+                        <h3>Search Our Extensive Parts Selection From Here</h3>
+                    </div>
                     <div id="S-search">
                         <form id="S-form">
                             <Button id="submit" type="submit" value="Submit">Submit</Button>

@@ -5,6 +5,7 @@ body {
 }
 
 .A-header {
+  text-shadow: 1px 1px rgb(24 24 24);
   margin-top: 0;
   margin-bottom: 0;
   display: flex;

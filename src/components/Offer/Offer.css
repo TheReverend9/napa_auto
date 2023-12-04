@@ -5,7 +5,7 @@
 }
 
 #O-outer-container {
-    padding: 10px;
+    margin: 10px;
 }
 
 .O-b-header p {
@@ -13,6 +13,7 @@
     margin: 0;
     padding-bottom: 10px;
     text-align: center;
+    font-weight: 500;
 }
 
 #O-section1 {
@@ -54,4 +55,9 @@
 .O-button {
     width: 250px;
     margin-bottom: 5px;
+}
+
+.O-b-header h3 {
+    color: rgb(24 24 24);
+    text-align: center;
 }

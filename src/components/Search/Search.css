@@ -16,14 +16,14 @@
 
 #form-input {
     width: 400px;
-    background-color:#73b971;
-    border: 2px solid #0E860C;
+    background-color:#43a742;
+    border: 2px solid #97c996;
     border-radius: 8px;
-    color: white;
+    color: rgb(24 24 24);
 }
 
 #form-input::placeholder {
-    color: white;
+    color: rgb(24 24 24);
 }
 
 #S-ads {
@@ -38,5 +38,10 @@
 }
 
 .S-ad {
+    text-align: center;
+}
+
+.S-header {
+    color: rgb(24 24 24);
     text-align: center;
 }
